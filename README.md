@@ -1,6 +1,6 @@
 <h1 align="center" >## 👋 Prazer, sou o Glauber! </h1>
 
-<h4 align="center">🎓 Professor de Ciências e Informática | Estudante de Licenciatura em Informática | Apaixonado por ciências e tecnologia | Aprendizado contínuo e educação.</h4>
+<h4 align="center">🎓 Professor de Ciências e Informática | Estudante de Licenciatura em Informática | Apaixonado por ciências e tecnologia | Aprendizado contínuo.</h4>
 
 💡 Tenho interesse em:
 - Cibersegurança
