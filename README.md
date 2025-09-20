@@ -1,4 +1,16 @@
-## Hi there 👋
+<h1 align="center" >## 👋 Prazer, sou o Glauber! </h1>
+
+🎓 Professor de Ciências e Informática | Estudante de Licenciatura em Informática | Apaixonado por ciências e tecnologia | Aprendizado contínuo e educação.
+
+💡 Tenho interesse em:
+- Cibersegurança
+- Cloud e DevOps
+- Automação e IoT
+
+
+🧩 Além da tecnologia, gosto de videogames e aprender coisas novas, e acredito que a educação pode mudar vidas.
+
+
 
 <!--
 **glaubercarvalho/glaubercarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
